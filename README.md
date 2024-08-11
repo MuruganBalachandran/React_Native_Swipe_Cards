@@ -1,4 +1,4 @@
-![Screenshot 2024-08-11 203457](https://github.com/user-attachments/assets/619f321f-1c18-429f-b032-e81a8df50012)
+
 
 # Tarot Card Swiping App
 
@@ -84,6 +84,8 @@ If everything is set up correctly, your app should be running on the Android Emu
 ## Troubleshooting
 
 If you encounter any issues, consult the [React Native Troubleshooting Guide](https://reactnative.dev/docs/troubleshooting).
+
+![Screenshot 2024-08-11 203457](https://github.com/user-attachments/assets/619f321f-1c18-429f-b032-e81a8df50012)
 
 ## Learn More
 
