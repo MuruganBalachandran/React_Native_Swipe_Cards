@@ -1,5 +1,4 @@
-
----![Uploading Screenshot 2024-08-11 202654.png…]()
+![Screenshot 2024-08-11 202654](https://github.com/user-attachments/assets/019f54b8-32e7-4d75-a4cd-ec8f53c4d790)
 
 
 # Tarot Card Swiping App
