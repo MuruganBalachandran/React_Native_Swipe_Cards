@@ -1,4 +1,3 @@
-Here's a well-organized README file for your React Native project:
 
 ---
 
@@ -77,13 +76,6 @@ yarn ios
 
 If everything is set up correctly, your app should be running on the Android Emulator or iOS Simulator.
 
-### Step 5: Modify Your App
-
-You can now start modifying your app. To see your changes:
-
-- **For Android**: Press <kbd>R</kbd> twice or select "Reload" from the Developer Menu (accessed with <kbd>Ctrl</kbd> + <kbd>M</kbd> on Windows/Linux or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> on macOS).
-- **For iOS**: Press <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator.
-
 ## Project Structure
 
 - **App.tsx**: The main entry point of the application.
@@ -102,9 +94,6 @@ To learn more about React Native and improve your development experience, check 
 - [React Native GitHub Repository](https://github.com/facebook/react-native)
 - [React Native Blog](https://reactnative.dev/blog)
 
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
